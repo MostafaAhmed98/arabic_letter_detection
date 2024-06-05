@@ -87,7 +87,8 @@ This endpoint accepts a base64 encoded string of an image and returns the predic
   "Probability": 0.987
 }
 ```
-![image](https://github.com/MostafaAhmed98/arabic_letter_detection/assets/90983988/d2c1b3fa-06b6-4ae9-824b-b1f3eb881726)
+![image](https://github.com/MostafaAhmed98/arabic_letter_detection/assets/90983988/968316b5-1e07-49b1-9eb1-61dad2700c5a)
+
 
 
 ## Troubleshooting
