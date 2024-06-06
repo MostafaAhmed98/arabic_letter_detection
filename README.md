@@ -18,7 +18,7 @@ Make sure you have Docker installed on your system. You can download and install
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MostafaAhmed98/arabic_letter_detection
+git clone https://github.com/MostafaAhmed98/arabic_letter_detection.git
 cd arabic_letter_detection
 ```
 
