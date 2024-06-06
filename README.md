@@ -18,8 +18,8 @@ Make sure you have Docker installed on your system. You can download and install
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/image-classification-api.git
-cd image-classification-api
+git clone https://github.com/MostafaAhmed98/arabic_letter_detection
+cd arabic_letter_detection
 ```
 
 
