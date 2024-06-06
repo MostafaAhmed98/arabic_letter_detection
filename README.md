@@ -17,20 +17,20 @@ Make sure you have Docker installed on your system. You can download and install
 
 ### 1. Clone the repository
 
-```
+```bash
 git clone https://github.com/your-repo/image-classification-api.git
 cd image-classification-api
 
 
 ### 2. Build the Docker image
 
-```
+```bash
 docker build -t image-classification-api .
 ```
 
 ### 3. Run the Docker container
 
-```
+```bash
 docker container run -d -p 5000:5000 image-classification-api
 ```
 
